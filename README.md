@@ -1,4 +1,4 @@
-# splitbill
+# Splitbill
 
 A new Flutter project.
 

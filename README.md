@@ -1,4 +1,4 @@
-# Splitbill
+# SplitBill
 
 Splitbill is a Flutter application designed to simplify the process of splitting costs or bills among friends or groups. This application is particularly useful when dining out, traveling, or shopping together.
 
